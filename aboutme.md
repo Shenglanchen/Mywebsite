@@ -16,4 +16,4 @@ Research of Cognition ; Interdisciplinary = Psychology + Neuroscience + Human-Co
 [Shenglan CHEN - CV - Version français](assets/PDFs/CV_Shenglan_Chen.pdf) (updated Jan 2026)
 
 # Cover Letter
-[Shenglan CHEN - Lettre de motivation - Version français](assets/PDFs/Lettre_de_motivation_Shenglan.pdf) 
+[Shenglan CHEN - Lettre de motivation - Version français](assets/PDFs/Lettre de motivation_Shenglan.pdf) 
