@@ -15,7 +15,7 @@ Below are some of the research project reports and presentations I have made dur
 
 Project 1 : AI-Generated vs. Human-Written Text Detection
 
-[Report of Programming Project](assets/PDFs/Identification des textes humains et générés par l'IA.pdf)
+[Report of Programming Project](assets/PDFs/Identification des textes humains et générés par l'IA.pdf) 
 
 
 Project 2 : UX Analysis and Redesign of the French Residence Permit (Titre de Séjour) Application Process
@@ -30,4 +30,4 @@ Project 3 : Literature Review of Motor Learning in the Age of AI
 
 Project 4 : Research of neuro-econimic: anxiety and food decision ( at the <a href="Institut des Sciences Cognitives/">Institut des Sciences Cognitives</a> )
 
-[Research Paper of M1](assets/PDFs/Mémoire de recherche M1.pdf)
+[Research Paper of M1](assets/PDFs/Mémoire de recherche M1.pdf)
