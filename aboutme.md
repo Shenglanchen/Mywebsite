@@ -11,7 +11,9 @@ I am deeply attracted by the interaction between humans and advanced technology.
 
 # key words  
 Research of Cognition 
+
 Interdisciplinary = Psychology + Neuroscience + Human-Computer Interaction, with a little bit Philosophy of mind
+
 Human-centered solution 
 
 
