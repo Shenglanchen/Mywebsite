@@ -8,7 +8,6 @@ Hi, I'm Shenglan. I am currently a Master’s student at the University of Lyon 
 
 I am deeply fascinated by the interaction between humans and advanced technology. I believe this research is essential in our current era, as technology evolves and reshapes our daily interactions.
 
-Driven by a curiosity about how research can be applied in the industry, I am actively seeking a CIFRE thesis for the next 3 years (2026–2029). My goal is to continue exploring these fascinating human-machine interactions in a practical, industrial context.
 
 # key words  
 Research of Cognition ; Interdisciplinary = Psychology + Neuroscience + Human-Computer Interaction, a little bit Philosophy of mind
