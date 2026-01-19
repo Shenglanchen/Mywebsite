@@ -11,7 +11,7 @@ I am deeply fascinated by the interaction between humans and advanced technology
 Driven by a curiosity about how research can be applied in the industry, I am actively seeking a CIFRE thesis for the next 3 years (2026–2029). My goal is to continue exploring these fascinating human-machine interactions in a practical, industrial context.
 
 # key words  
-Research of Cognition ; Interdisciplinary = Psychology + Neuroscience + Human-computer Interaction, maybe a little bit Philosophy
+Research of Cognition ; Interdisciplinary = Psychology + Neuroscience + Human-Computer Interaction, a little bit Philosophy of mind
 
 # CV
 [Shenglan CHEN - CV](assets/PDFs/CV_Shenglan_Chen.pdf) (updated Jan 2026)
