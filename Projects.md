@@ -28,6 +28,6 @@ Project 3 : Literature Review of Motor Learning in the Age of AI
 [Report of literature Review](assets/PDFs/MotorLearningintheAgeofAI.pdf)
 
 
-Project 4 : Research of neuroeconimic by using eye-tracker: anxiety and food decision (at the [Institut des Sciences Cognitives](https://www.isc.cnrs.fr/))
+Project 4 : Research of [Neuroeconomics](https://en.wikipedia.org/wiki/Neuroeconomics) by using Eye tracking: anxiety and food decision of young women (at the [Institut des Sciences Cognitives](https://www.isc.cnrs.fr/))
 
 [Research Paper of M1](assets/PDFs/MemoirederechercheM1.pdf)
