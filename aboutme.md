@@ -10,7 +10,10 @@ I am deeply attracted by the interaction between humans and advanced technology.
 
 
 # key words  
-Research of Cognition ; Interdisciplinary = Psychology + Neuroscience + Human-Computer Interaction, a little bit Philosophy of mind
+Research of Cognition 
+Interdisciplinary = Psychology + Neuroscience + Human-Computer Interaction, with a little bit Philosophy of mind
+Human-centered solution 
+
 
 # CV
 [Shenglan CHEN - CV - Version français](assets/PDFs/CV_Shenglan_Chen.pdf) (updated Jan 2026)
