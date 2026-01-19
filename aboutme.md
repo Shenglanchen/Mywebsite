@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Shenglan CHEN
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Shenglan. I am currently a Master’s student at the University of Lyon 2, conducting my M2 internship under the supervision of Jordan Navarro. My research focuses on how a driver’s perceived agency influences their brain activation patterns.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am deeply fascinated by the interaction between humans and advanced technology. I believe this research is essential in our current era, as technology evolves and reshapes our daily interactions.
 
-What else do you need?
+Driven by a curiosity about how research can be applied in the industry, I am actively seeking a CIFRE thesis for the next 3 years (2026–2029). My goal is to continue exploring these fascinating human-machine interactions in a practical, industrial context.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# CV
+[Shenglan CHEN - CV](assets/pdf/cv.pdf) (updated Jan 2026)
