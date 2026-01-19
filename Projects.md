@@ -12,3 +12,6 @@ This study employs fNIRS too. It examines neural patterns before, during, and af
 
 Below are some of the research project reports and presentations I have made during my Master's year.
 
+[Report: Identification des textes humains et générés par l'IA ](assets/PDFs/Identification des textes humains et générés par l'IA.pdf)
+
+
