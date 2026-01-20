@@ -134,17 +134,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#EFEBE9"         # 莫兰迪浅灰皮色（非常有质感，像未涂层纸张）
-text-col: "#5D5D5D"         # 中度灰（比深黑更柔和，降低视觉疲劳）
-link-col: "#A38B7F"         # 莫兰迪陶土色（艺术感极强的点缀色）
-hover-col: "#8D6E63"        # 浓郁赭石色
-navbar-col: "#E0D8D5"       # 略深的灰粉色
-navbar-text-col: "#5D5D5D"
-navbar-border-col: "#D2C5C0"
-footer-col: "#D7CCC8"       # 深度协调的页脚
-footer-text-col: "#8D8D8D"
-footer-link-col: "#5D5D5D"
-footer-hover-col: "#8D6E63"
+page-col: "#F4F4F2"         # 浅灰沙色（中性冷调）
+text-col: "#4A4E54"         # 蓝灰色文字（非常现代的科研质感）
+link-col: "#8F9DA3"         # 莫兰迪雾霾蓝（点睛之笔）
+hover-col: "#607D8B"        # 蓝灰石色
+navbar-col: "#E8E8E6"       # 浅岩灰
+navbar-text-col: "#4A4E54"
+navbar-border-col: "#D1D1CF"
+footer-col: "#E1E1DE"       # 页脚与整体呼应
+footer-text-col: "#7A7A7A"
+footer-link-col: "#4A4E54"
+footer-hover-col: "#607D8B"
 
 #page-col: "#FFFFFF"
 #text-col: "#404040"
