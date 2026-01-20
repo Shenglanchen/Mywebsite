@@ -18,7 +18,7 @@ I am deeply attracted by the interaction between humans and advanced technology.
 ❗️ Human-centered solution 
 
 # CV
-[Shenglan CHEN - CV - Version français](assets/PDFs/CV_Shenglan_Chen.pdf) (updated Jan 2026)
+[CV - Shenglan CHEN (French)](assets/PDFs/CV_Shenglan_Chen.pdf) (updated Jan 2026)
 
 # Cover Letter
-[Shenglan CHEN - Lettre de motivation - Version français](assets/PDFs/Lettre de motivation_Shenglan.pdf) 
+[Cover Letter - Shenglan CHEN (French)](assets/PDFs/Lettre de motivation_Shenglan.pdf) 
